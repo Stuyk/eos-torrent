@@ -1,5 +1,5 @@
 # eos-torrent
-Never lose those magnet links ever again. I am not responsible for anything that is done with this contract.
+Never lose those magnet links ever again.
 
 ## What is this?
 This contract will let users store data on the EOS Blockchain for 'magnet' links. It's incredibly simple and has an add or remove function only.
